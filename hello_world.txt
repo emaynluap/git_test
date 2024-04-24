@@ -1,0 +1,3 @@
+Opened hello world.
+Adding some text.
+Will save it and stage it next.
